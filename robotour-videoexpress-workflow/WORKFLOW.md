@@ -1,4 +1,4 @@
-# ROBOTOUR — WORKFLOW PERMANENT DE PRODUCTION
+# ROBOTOUR — WORKFLOW PERMANENT DE PRODUCTION 
 ## Version 2.0 — VideoExpress v3.5 / GitHub / finition CapCut
 
 > **Mode d'emploi.** Ce document est une procédure destinée à un agent disposant d'un accès effectif au navigateur et au compte VideoExpress autorisé. Le dépôt GitHub conserve les instructions et les références ; **GitHub seul ne lance pas VideoExpress**. Les fonctions et boutons doivent être vérifiés dans l'interface réelle avant d'agir. Le flux est conçu pour tous les épisodes de RoboTour : **aucun scénario n'est à écrire dans ce fichier à l'avance**.
